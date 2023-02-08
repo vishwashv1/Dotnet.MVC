@@ -1,0 +1,15 @@
+D:\ASP.NET\ASPWebApp\Class1\obj\Debug\Class1.csprojAssemblyReference.cache
+D:\ASP.NET\ASPWebApp\Class1\obj\Debug\Class1.csproj.CoreCompileInputs.cache
+D:\ASP.NET\ASPWebApp\Class1\bin\Debug\Class1.dll.config
+D:\ASP.NET\ASPWebApp\Class1\bin\Debug\Class1.dll
+D:\ASP.NET\ASPWebApp\Class1\bin\Debug\Class1.pdb
+D:\ASP.NET\ASPWebApp\Class1\bin\Debug\ASPWebApp.dll
+D:\ASP.NET\ASPWebApp\Class1\bin\Debug\EntityFramework.dll
+D:\ASP.NET\ASPWebApp\Class1\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP.NET\ASPWebApp\Class1\bin\Debug\ASPWebApp.pdb
+D:\ASP.NET\ASPWebApp\Class1\bin\Debug\ASPWebApp.dll.config
+D:\ASP.NET\ASPWebApp\Class1\bin\Debug\EntityFramework.xml
+D:\ASP.NET\ASPWebApp\Class1\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP.NET\ASPWebApp\Class1\obj\Debug\Class1.csproj.CopyComplete
+D:\ASP.NET\ASPWebApp\Class1\obj\Debug\Class1.dll
+D:\ASP.NET\ASPWebApp\Class1\obj\Debug\Class1.pdb
